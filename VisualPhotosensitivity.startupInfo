@@ -5,8 +5,8 @@
   <StartupInfoItem itemName="WarningDuration">2000</StartupInfoItem>
   <StartupInfoItem itemName="StimulusDuration">3000</StartupInfoItem>
   <StartupInfoItem itemName="RestDuration">3000</StartupInfoItem>
+  <StartupInfoItem itemName="RestTrialDuration">20000</StartupInfoItem>
   <StartupInfoItem itemName="WarningLevel">10</StartupInfoItem>
   <StartupInfoItem itemName="DimLevel">50</StartupInfoItem>
   <StartupInfoItem itemName="BrightLevel">100</StartupInfoItem>
-  <StartupInfoItem itemName="RestTrialDuration">20000</StartupInfoItem>
 </StartupInfo>
