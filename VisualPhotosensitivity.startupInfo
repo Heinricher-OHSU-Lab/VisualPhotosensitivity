@@ -2,11 +2,10 @@
 <StartupInfo>
   <StartupInfoItem itemName="Display.DisplayIndex">1</StartupInfoItem>
   <StartupInfoItem itemName="FMRITrigWait">30000</StartupInfoItem>
-  <StartupInfoItem itemName="WarningDuration">2000</StartupInfoItem>
-  <StartupInfoItem itemName="StimulusDuration">3000</StartupInfoItem>
-  <StartupInfoItem itemName="RestDuration">3000</StartupInfoItem>
-  <StartupInfoItem itemName="RestTrialDuration">20000</StartupInfoItem>
-  <StartupInfoItem itemName="WarningLevel">10</StartupInfoItem>
-  <StartupInfoItem itemName="DimLevel">50</StartupInfoItem>
-  <StartupInfoItem itemName="BrightLevel">100</StartupInfoItem>
+  <StartupInfoItem itemName="StimulusDuration">5000</StartupInfoItem>
+  <StartupInfoItem itemName="RestDuration">5000</StartupInfoItem>
+  <StartupInfoItem itemName="ContinuousTrialDuration">20000</StartupInfoItem>
+  <StartupInfoItem itemName="DimLevel">60</StartupInfoItem>
+  <StartupInfoItem itemName="BrightLevel">150</StartupInfoItem>
+  <StartupInfoItem itemName="IsDevMode">True</StartupInfoItem>
 </StartupInfo>
