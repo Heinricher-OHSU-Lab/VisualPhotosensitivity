@@ -7,5 +7,5 @@
   <StartupInfoItem itemName="ContinuousTrialDuration">20000</StartupInfoItem>
   <StartupInfoItem itemName="DimLevel">60</StartupInfoItem>
   <StartupInfoItem itemName="BrightLevel">150</StartupInfoItem>
-  <StartupInfoItem itemName="IsDevMode">False</StartupInfoItem>
+  <StartupInfoItem itemName="IsDevMode">True</StartupInfoItem>
 </StartupInfo>
