@@ -8,4 +8,5 @@
   <StartupInfoItem itemName="DimLevel">60</StartupInfoItem>
   <StartupInfoItem itemName="BrightLevel">150</StartupInfoItem>
   <StartupInfoItem itemName="IsDevMode">True</StartupInfoItem>
+  <StartupInfoItem itemName="ExperimentVersion">1.0.0</StartupInfoItem>
 </StartupInfo>
