@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StartupInfo>
+  <StartupInfoItem itemName="Display.DisplayIndex">1</StartupInfoItem>
+  <StartupInfoItem itemName="FMRITrigWait">30000</StartupInfoItem>
+  <StartupInfoItem itemName="StimulusDuration">5000</StartupInfoItem>
+  <StartupInfoItem itemName="RestDuration">5000</StartupInfoItem>
+  <StartupInfoItem itemName="ContinuousTrialDuration">20000</StartupInfoItem>
+  <StartupInfoItem itemName="DimLevel">60</StartupInfoItem>
+  <StartupInfoItem itemName="BrightLevel">150</StartupInfoItem>
+  <StartupInfoItem itemName="IsDevMode">True</StartupInfoItem>
+  <StartupInfoItem itemName="ExperimentVersion">2.0.0</StartupInfoItem>
+</StartupInfo>
