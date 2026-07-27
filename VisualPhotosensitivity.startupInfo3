@@ -8,8 +8,8 @@
   <StartupInfoItem itemName="DimLevel">60</StartupInfoItem>
   <StartupInfoItem itemName="BrightLevel">150</StartupInfoItem>
   <StartupInfoItem itemName="ExperimentVersion">2.1.0</StartupInfoItem>
-  <StartupInfoItem itemName="IsDevMode">True</StartupInfoItem>
-  <StartupInfoItem itemName="LightController.Open">False</StartupInfoItem>
+  <StartupInfoItem itemName="IsDevMode">False</StartupInfoItem>
+  <StartupInfoItem itemName="LightController.Open">True</StartupInfoItem>
   <StartupInfoItem itemName="LightController.CommPort">3</StartupInfoItem>
-  <StartupInfoItem itemName="SRBox.Open">False</StartupInfoItem>
+  <StartupInfoItem itemName="SRBox.Open">True</StartupInfoItem>
 </StartupInfo>
